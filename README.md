@@ -1,4 +1,22 @@
-### Hi there 👋
+## About Me 👋
+
+### 🎓 Education
+- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) *2020.03~
+
+### 🤔 Interests
+- Deep Learning
+- Computer Vision
+
+### 🌱 Experiences
+- (2023.04-2024.09) 성균관대 자율주행차 동아리 SCAR *2023.09-2024.03 회장
+- (2023.07-2024.08) Sungkyun Software Assistant - [SOSD](https://sosd.skku.edu) 개발
+- (2023.09-2024.03) SPARK-캐릭터 인격 생성 및 채팅 앱 '차차' 개발
+- (2024.04-2024.12) 산학협력프로젝트 - 영상 기반으로 용접 로봇의 작업 내용을 판별하는 딥러닝 알고리즘 개발 *팀장
+- (2024.09~ ) [ELL](https://ell.skku.edu/) 랩인턴
+
+### 🏆 Awards
+- 2023.09.24 제 1회 SKKUTHON 대상 - 시각장애인을 위한 배달 앱
+<br/><br/><br/><br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh200315)](https://solved.ac/hsh200315)
 <!--
