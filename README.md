@@ -16,7 +16,16 @@
 
 ### 🏆 Awards
 - 2023.09.24 제 1회 SKKUTHON 대상 - 시각장애인을 위한 배달 앱
-<br/><br/><br/><br/>
+
+### 🛠️ Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,pytorch,html,css,js,react,django,kotlin" />
+  </a>
+  <br/>
+</p>
+
+<br/><br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh200315)](https://solved.ac/hsh200315)
 <!--
