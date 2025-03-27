@@ -12,7 +12,7 @@
 - (2023.07-2024.08) Sungkyun Software Assistant - [SOSD](https://sosd.skku.edu) 개발 *2024.06-2024.08 팀장
 - (2023.09-2024.03) SPARK-캐릭터 인격 생성 및 채팅 앱 '차차' 개발
 - (2024.04-2024.12) 산학협력프로젝트 - 영상 기반으로 용접 로봇의 작업 내용을 판별하는 딥러닝 알고리즘 개발 *팀장
-- (2024.09-2024.10) [ELL](https://ell.skku.edu/) 랩인턴
+- (2024.09-2024.10) [ELL](https://ell.skku.edu/) 학부연구생
 - (2024.09-present) 성균관대학교 소프트웨어학과 학생회
 - (2024.12-2025.02) (주)크로이스 현장실습
 - (2025.03-present) [VClab](https://sites.google.com/site/vclabskku/) 학부연구생
