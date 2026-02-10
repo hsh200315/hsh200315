@@ -17,8 +17,8 @@
 - (2024.09-2024.10) [ELL](https://ell.skku.edu/) 학부연구생
 - (2024.09-2025.03) 성균관대학교 소프트웨어학과 학생회
 - (2024.12-2025.02) (주)크로이스 현장실습
-- (2025.03-2026.02) [VClab](https://sites.google.com/site/vclabskku/) 학부연구생
-- (2026.03-present) [VClab](https://sites.google.com/site/vclabskku/) 석박통합과정
+- (2025.03-2026.02) [VCLab](https://sites.google.com/site/vclabskku/) 학부연구생
+- (2026.03-present) [VCLab](https://sites.google.com/site/vclabskku/) 석박통합과정
 
 ### 🏆 Awards
 - (2023.09.24) 제 1회 SKKUTHON 대상 - 시각장애인을 위한 배달 앱
