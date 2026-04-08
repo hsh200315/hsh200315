@@ -1,8 +1,9 @@
 ## About Me 👋
 
 ### 🎓 Education
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) *2020.03~2026.02
 - [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 인공지능학과 (Artificial Intelligence) *2026.03~
+- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) *2020.03~2026.02
+
 
 ### 🤔 Interests
 - Computer Vision
